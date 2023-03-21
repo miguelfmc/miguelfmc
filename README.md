@@ -13,7 +13,6 @@ I'm a data scientist. I enjoy building machine learning solutions to solve all s
 
 ### Recent projects
 
-* First-order subset selection with a sklearn API
 * Bayesian Mini Case Studies
   * [Intro](https://miguelfmc.github.io/projects/LogisticRegression-Part1.html)
   * [MCMC](https://miguelfmc.github.io/projects/LogisticRegression-Part2.html)
