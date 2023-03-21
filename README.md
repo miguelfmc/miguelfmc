@@ -1,13 +1,13 @@
 ### Hi there, I'm Miguel 👋
 
-I'm a data scientist. I enjoy building machine learning solutions to solve all sorts of problems. I'm particularly interested in the connection between machine learning, decision science and optimization. Currently, I'm working as a Machine Learning Scientist at PayPal. Outside of work...
+I'm a data scientist. I enjoy building machine learning solutions to solve all sorts of problems. I'm particularly interested in the connection between machine learning, decision science and optimization. Currently, I'm working as a Machine Learning Scientist at PayPal.
 
 - 🔭 I’m currently working on:
   - A scikit-learn compatible package for subset selection
   - Sharpening my data structures and algorithms skills
   - Revamping my personal portfolio
 - 🌱 I’m currently learning the basics of MLOps, Bayesian Statistics and uncertainty quantification for ML (especially conformal prediction!)
-- ⚡ Fun fact: in a past life
+- ⚡ Fun fact: in a past life, I played the drums in a band 🥁
 
 <!-- I also write about non-data related topics in my blog -->
 
