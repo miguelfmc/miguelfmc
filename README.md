@@ -3,7 +3,6 @@
 I'm a data scientist. I enjoy building machine learning solutions to solve all sorts of problems. I'm particularly interested in the connection between machine learning, decision science and optimization. Currently, I'm working as a Machine Learning Scientist at PayPal.
 
 - 🔭 I’m currently working on:
-  - A scikit-learn compatible [package](https://github.com/miguelfmc/sklearn-discretefirstorder) for subset selection
   - Sharpening my data structures and algorithms skills
   - Revamping my personal portfolio
 - 🌱 I’m currently learning the basics of MLOps, Bayesian Statistics and uncertainty quantification for ML (especially conformal prediction!)
@@ -13,6 +12,7 @@ I'm a data scientist. I enjoy building machine learning solutions to solve all s
 
 ### Recent projects
 
+* A scikit-learn compatible [package](https://github.com/miguelfmc/sklearn-discretefirstorder) for subset selection
 * Bayesian Mini Case Studies
   * [Intro to Bayesian Stats](https://miguelfmc.github.io/projects/LogisticRegression-Part1.html)
   * [Intro to MCMC](https://miguelfmc.github.io/projects/LogisticRegression-Part2.html)
