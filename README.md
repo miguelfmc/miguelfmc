@@ -16,7 +16,10 @@ I'm a data scientist. I enjoy building machine learning solutions to solve all s
 * Bayesian Mini Case Studies
   * [Intro to Bayesian Stats](https://miguelfmc.github.io/projects/LogisticRegression-Part1.html)
   * [Intro to MCMC](https://miguelfmc.github.io/projects/LogisticRegression-Part2.html)
-* [Forecasting Energy Demand in California](https://miguelfmc.github.io/projects/1_CaliforniaEnergyDemandEDA.html)
+* Forecasting Energy Demand in California
+  * [Exploratory Analysis](https://miguelfmc.github.io/projects/1_CaliforniaEnergyDemandEDA.html)
+  * [Forecasting with Prophet](https://miguelfmc.github.io/projects/2_LoadForecastingWithProphet.html)
+  * [Forecasting with GAMs](https://miguelfmc.github.io/projects/3_LoadForecastingGAMs.html)
 
 Here is [my personal website](https://miguelfmc.github.io/) for more stuff!
 
