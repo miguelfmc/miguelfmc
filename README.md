@@ -4,14 +4,14 @@ I'm a data scientist. I enjoy building machine learning solutions to solve all s
 
 - 🔭 I’m currently working on:
   - Sharpening my data structures and algorithms skills
+  - Trying to keep up with the latest in AI, especially LLMs!
   - Revamping my personal portfolio
 - 🌱 I’m currently learning the basics of MLOps, Bayesian Statistics and uncertainty quantification for ML (especially conformal prediction!)
 - ⚡ Fun fact: in a past life, I played the drums in a band 🥁
 
-<!-- I also write about non-data related topics in my blog -->
-
 ### Recent projects
 
+* [Shellper](https://github.com/miguelfmc/shellper-ai) - a quick-and-dirty command line tool to get GPT to help you with Linux shell commands
 * A scikit-learn compatible [package](https://github.com/miguelfmc/sklearn-discretefirstorder) for subset selection
 * Bayesian Mini Case Studies
   * [Intro to Bayesian Stats](https://miguelfmc.github.io/projects/LogisticRegression-Part1.html)
