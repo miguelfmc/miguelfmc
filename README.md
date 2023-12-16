@@ -6,7 +6,7 @@ I'm a data scientist. I enjoy building machine learning solutions to solve all s
   - Sharpening my data structures and algorithms skills
   - Learning about some of the crazier and less known Python "ins and outs" like metaclasses, descriptors and coroutines
   - Trying to keep up with the latest in AI, especially LLMs!
-  - Getting a better grasp on the fairly extensive Recommender Systems literature
+  - Getting a better understanding of the Recommender Systems literature
   - Revamping my personal portfolio
 - 🌱 I’m currently learning the basics of MLOps, Recommender Systems, Bayesian Statistics and uncertainty quantification for ML (especially conformal prediction!)
 - ⚡ Fun fact: in a past life, I played the drums in a band 🥁
